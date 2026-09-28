@@ -16,7 +16,6 @@ It can be useful for:
 - 🧑‍💻 TCS NQT
 - 🏢 Infosys, Accenture, Capgemini, Wipro, etc.
 - 📝 Competitive Exams
-- 🧠 General Aptitude Practice
 
 ---
 
