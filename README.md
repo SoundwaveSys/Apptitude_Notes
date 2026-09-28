@@ -79,7 +79,7 @@ It can be useful for:
 - Error Detection
 - Fill in the Blanks
 - Para Jumbles
-- Sentence Completion
+
 
 ---
 
