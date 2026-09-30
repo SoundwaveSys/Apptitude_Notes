@@ -1,89 +1,114 @@
-# 📚 Aptitude Notes
+# 📚 Aptitude Notes & Placement Preparation
 
-A structured collection of aptitude notes, formulas, shortcuts, examples, and practice questions for placement preparation and competitive exams.
+<p align="center">
+  <img src="https://img.shields.io/badge/Aptitude-Preparation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Placement-Ready-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Notes-Made%20Easy-orange?style=for-the-badge" />
+</p>
 
-This repository is designed to make aptitude preparation easier by organizing important concepts topic-by-topic.
+<p align="center">
+  A structured collection of aptitude concepts, formulas, shortcuts, solved examples, and practice problems for placement preparation and competitive exams.
+</p>
 
 ---
 
-## 🎯 Purpose
+## 🎯 About This Repository
 
-The goal of this repository is to provide a simple and organized resource for learning and revising aptitude.
+This repository contains **topic-wise aptitude notes** designed to make learning, revision, and practice easier.
 
-It can be useful for:
+It covers important concepts required for:
 
 - 💼 Campus Placements
 - 🧑‍💻 TCS NQT
-- 🏢 Infosys, Accenture, Capgemini, Wipro, etc.
+- 🏢 Infosys
+- 🚀 Accenture
+- 💻 Capgemini
+- 🌐 Wipro
 - 📝 Competitive Exams
 - 🎓 College Exams
 - 🧠 General Aptitude Practice
 
----
-
-## 📖 Topics Covered
-
-### 🔢 Quantitative Aptitude
-
-- Number System
-- LCM & HCF
-- Percentages
-- Profit & Loss
-- Simple Interest
-- Compound Interest
-- Ratio & Proportion
-- Average
-- Time & Work
-- Pipes & Cisterns
-- Time, Speed & Distance
-- Boats & Streams
-- Problems on Trains
-- Mixtures & Allegations
-- Permutation & Combination
-- Probability
-- Algebra
-- Geometry
-- Mensuration
-- Ages
-
-### 🧩 Logical Reasoning
-
-- Number Series
-- Alphabet Series
-- Coding & Decoding
-- Blood Relations
-- Direction Sense
-- Syllogisms
-- Analogies
-- Classification
-- Statement & Conclusion
-- Seating Arrangement
-- Puzzles
-- Data Sufficiency
-
-### 📊 Data Interpretation
-
-- Tables
-- Bar Graphs
-- Line Graphs
-- Pie Charts
-- Caselets
-- Data Comparison
-
-### 🗣️ Verbal Ability
-
-- Reading Comprehension
-- Vocabulary
-- Synonyms & Antonyms
-- Sentence Correction
-- Error Detection
-- Fill in the Blanks
-- Para Jumbles
-- Sentence Completion
+The goal is to create a **complete aptitude preparation roadmap** with simple explanations and practical examples.
 
 ---
 
-## 📁 Repository Structure
+# 📖 Topics Covered
+
+## 🔢 Quantitative Aptitude
+
+| Topic | Status |
+|---|---|
+| Number System | 🚧 In Progress |
+| LCM & HCF | 🚧 In Progress |
+| Percentages | 🚧 In Progress |
+| Profit & Loss | 🚧 In Progress |
+| Simple Interest | 🚧 In Progress |
+| Compound Interest | 🚧 In Progress |
+| Ratio & Proportion | 🚧 In Progress |
+| Average | 🚧 In Progress |
+| Time & Work | 🚧 In Progress |
+| Pipes & Cisterns | 🚧 In Progress |
+| Time, Speed & Distance | 🚧 In Progress |
+| Boats & Streams | 🚧 In Progress |
+| Problems on Trains | 🚧 In Progress |
+| Mixtures & Allegations | 🚧 In Progress |
+| Permutation & Combination | 🚧 In Progress |
+| Probability | 🚧 In Progress |
+| Algebra | 🚧 In Progress |
+| Geometry | 🚧 In Progress |
+| Mensuration | 🚧 In Progress |
+| Ages | 🚧 In Progress |
+
+---
+
+## 🧩 Logical Reasoning
+
+Topics include:
+
+- 🔢 Number Series
+- 🔤 Alphabet Series
+- 🔐 Coding & Decoding
+- 👨‍👩‍👧 Blood Relations
+- 🧭 Direction Sense
+- 🧠 Syllogisms
+- 🔍 Analogies
+- 📌 Classification
+- 📝 Statement & Conclusion
+- 🪑 Seating Arrangement
+- 🧩 Puzzles
+- 📊 Data Sufficiency
+
+---
+
+## 📊 Data Interpretation
+
+Topics include:
+
+- 📋 Tables
+- 📊 Bar Graphs
+- 📈 Line Graphs
+- 🥧 Pie Charts
+- 📑 Caselets
+- ⚖️ Data Comparison
+
+---
+
+## 🗣️ Verbal Ability
+
+Topics include:
+
+- 📖 Reading Comprehension
+- 📚 Vocabulary
+- 🔤 Synonyms & Antonyms
+- ✍️ Sentence Correction
+- ❌ Error Detection
+- 📝 Fill in the Blanks
+- 🔀 Para Jumbles
+- ✅ Sentence Completion
+
+---
+
+# 📂 Repository Structure
 
 ```text
 Aptitude-Notes/
