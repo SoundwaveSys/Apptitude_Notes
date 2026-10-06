@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  A structured collection of aptitude concepts, formulas, shortcuts, solved examples, and practice problems for placement preparation and competitive exams.
+  A structured collection of aptitude concepts, formulas, shortcuts, solved examples, and practice problems for placement preparation and competitive exam.
 </p>
 
 ---
