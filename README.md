@@ -14,7 +14,7 @@
 
 ## 🎯 About This Repository
 
-This repository contains **topic-wise aptitude notes** designed to make learning, revision, and practice easier.
+This repository contains **Yopic-wise aptitude notes** designed to make learning, revision, and practice easier.
 
 It covers important concepts required for:
 
