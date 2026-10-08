@@ -72,7 +72,6 @@ Topics include:
 - 🧭 Direction Sense
 - 🧠 Syllogisms
 - 🔍 Analogies
-- 📌 Classification
 - 📝 Statement & Conclusion
 - 🪑 Seating Arrangement
 - 🧩 Puzzles
