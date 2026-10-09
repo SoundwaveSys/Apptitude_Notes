@@ -24,7 +24,7 @@ It covers important concepts required for:
 - 🚀 Accenture
 - 💻 Capgemini
 - 🌐 Wipro
-- 📝 Competitive Exams
+- 📝 Competitive Exam
 - 🎓 College Exams
 - 🧠 General Aptitude Practice
 
