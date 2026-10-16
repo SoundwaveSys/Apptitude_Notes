@@ -19,7 +19,6 @@ This repository contains **Yopic-wise aptitude notes** designed to make learning
 It covers important concepts required for:
 
 - 💼 Campus Placements
-- 🧑‍💻 TCS NQT
 - 🏢 Infosys
 - 🚀 Accenture
 - 💻 Capgemini
