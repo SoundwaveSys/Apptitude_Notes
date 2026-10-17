@@ -23,9 +23,7 @@ It covers important concepts required for:
 - 🚀 Accenture
 - 💻 Capgemini
 - 🌐 Wipro
-- 📝 Competitive Exam
-- 🎓 College Exams
-- 🧠 General Aptitude Practice
+
 
 The goal is to create a **complete aptitude preparation roadmap** with simple explanations and practical examples.
 
